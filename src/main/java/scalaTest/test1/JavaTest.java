@@ -1,4 +1,4 @@
-package learm1;
+package scalaTest.test1;
 
 import java.util.Date;
 

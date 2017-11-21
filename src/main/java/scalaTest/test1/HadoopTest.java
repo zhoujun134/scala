@@ -1,4 +1,4 @@
-package learm1;
+package scalaTest.test1;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
